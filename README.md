@@ -11,7 +11,6 @@
 
 ---
 
-<!-- About Me Section -->
 ### 💬 About Me:
 
 - 🔭 I’m currently building projects in **AI, Robotics, IoT, and Web Development**  
@@ -22,7 +21,6 @@
 
 ---
 
-<!-- Skills Section -->
 ### 🛠️ Tech Stack:
 
 <p align="center">
@@ -37,7 +35,6 @@
 
 ---
 
-<!-- GitHub Stats Section -->
 ### 📈 GitHub Stats:
 
 <p align="center">
@@ -48,7 +45,6 @@
 
 ---
 
-<!-- Trophies Section -->
 ### 🏆 GitHub Trophies:
 
 <p align="center">
@@ -57,7 +53,6 @@
 
 ---
 
-<!-- Let's Connect Section -->
 ### 🤝 Let's Connect!
 
 <p align="center">
@@ -74,7 +69,17 @@
 
 ---
 
-<!-- Footer Section -->
+### 🧑‍🚀 View My 3D Astronaut:
+
+<p align="center">
+  <a href="YOUR_MODEL_URL" target="_blank">
+    <img src="https://img.icons8.com/nolan/96/3d-model.png" alt="View 3D Model" width="120">
+    <br> View My 3D Astronaut!
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Keep+Building+%F0%9F%9B%A0%EF%B8%8F;Keep+Exploring+%F0%9F%9A%80;Keep+Innovating+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
