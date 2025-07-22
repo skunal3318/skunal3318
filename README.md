@@ -1,5 +1,5 @@
-<!-- ANIMATED WELCOME BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hey+there!+I'm+Kunal+Yadav+%F0%9F%91%8B;Tech+Explorer+%7C+Startup+Founder+%7C+Innovator;Building+the+Future+with+Tech+%E2%9C%A8" alt="Welcome Banner" />
+<h1 align="center">Hi, I'm Kunal Yadav 👋</h1>
+<h3 align="center">Hardware Hacker | IoT Innovator | Research Enthusiast | Tech Content Creator</h3>
 
 <!-- COOL HERO IMAGE -->
 <p align="center">
