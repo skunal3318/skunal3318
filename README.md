@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Kunal Yadav 👋</h1>
-<h3 align="center">Hardware Hacker | IoT Innovator | Research Enthusiast | Tech Content Creator</h3>
-
 <!-- COOL HERO IMAGE -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/df/55/24/df552454142e5b81b7bdf3f07eea1fe7.gif" width="300" alt="Astronaut floating in space">
