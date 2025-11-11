@@ -1,81 +1,27 @@
-<h1 align="center">Hi, I'm Kunal Yadav 👋</h1>
-<!-- COOL HERO IMAGE -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/df/55/24/df552454142e5b81b7bdf3f07eea1fe7.gif" width="300" alt="Astronaut floating in space">
-</p>
+<h2> Hi, I'm Kunal! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl6b2p3dWk4YzNzM3Nkemg1NjgzeXB4eXRjM2JhMXVucTNyeWppcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDfqgm8huAHxpZtnYP/giphy.gif" width="30"></h2>
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN6ejB4MDBsd29ia2Ntajk5YW1vcms4Zmw0ajlpcWliaWZ1eDA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GtxDVpBVTYpsxL0XXQ/giphy.gif" width="230">
+<p><em>Student at <a href="https://www.srmist.edu.in/">SRM University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+
+[![Linkedin: kunalsrm](https://img.shields.io/badge/-skunal3318-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsrm/)](https://www.linkedin.com/in/kunalsrm/)
+[![GitHub Kunal](https://img.shields.io/github/followers/skunal3318?label=follow&style=social)](https://github.com/skunal3318)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+kunal = {
+    "pronouns": ["he", "him"] ,
+    "code": ["Python", "C++", "IoT", "Robotics", "JavaScript"] ,
+    "tools": ["ROS", "Gazebo", "SolidWorks", "OpenCV", "Git", "TensorFlow", "YOLO", "Flask"],
+    "focusAreas": ["Robotics", "Autonomous Systems", "Embedded Programming", "Microservices"],
+    "communities": {
+        "president": "IEEE SRM"
+    },
+    "challenge": "Currently exploring and searching for the next challenge."
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-
-## 🚀 About Me
-
-- 🔭 Currently working on **AI/ML**, **Robotics**, and **Web3 Innovations**
-- 🛠️ Founder of **SENSESCRIBE** and **EcoPrint**
-- 🌍 Passionate about **Tech for Good** and **Inclusive Innovations**
-- 💡 Building "**The Mavericks**" – a next-gen tech community
-- 📈 Lifelong learner | Builder | Dreamer 🚀
-- 📨 Connect with me: [LinkedIn](https://www.linkedin.com/in/kunalsrm/) | [Instagram](https://www.instagram.com/the_maverick1606/)
-
----
-
-## 🧰 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mysql,git,github,vscode,arduino,linux,figma&perline=7" alt="Tech stack icons" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skunal3318&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=skunal3318&theme=tokyonight&hide_border=true&background=FFFFFF00" width="45%" />
-</p>
-
----
-
-## 🏆 Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skunal3318&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skunal3318&theme=react-dark&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🎯 Current Focus Areas
-
-- 🤖 Developing AI-first solutions
-- ⚙️ Robotics & Embedded Systems Projects
-- 🌐 Web3 + Blockchain Use Cases
-- 🌟 Empowering creators through **The Mavericks**
-
----
-
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kunalsrm/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/the_maverick1606/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:kunal780954@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- FOOTER WITH WAVING EFFECT -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
