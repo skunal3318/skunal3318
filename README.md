@@ -22,6 +22,6 @@ kunal = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMwODVoMm03aXFoYXg5anZld2tldzZ2Ymg1aWd1cHN4MzY0bHo4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0PCCgWph6W0pT5uBuf/giphy.gif" width="30"> <em><b> Always open to collaboration and meaningful conversations — let's connect!</b> :)</em>
 
 ---
