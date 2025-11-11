@@ -3,7 +3,7 @@
 <p><em>Student at <a href="https://www.srmist.edu.in/">SRM University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: kunalsrm](https://img.shields.io/badge/-skunal3318-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsrm/)](https://www.linkedin.com/in/kunalsrm/)
+[![Linkedin: kunalsrm](https://img.shields.io/badge/-Kunalsrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsrm/)](https://www.linkedin.com/in/kunalsrm/)
 [![GitHub Kunal](https://img.shields.io/github/followers/skunal3318?label=follow&style=social)](https://github.com/skunal3318)
 
 
