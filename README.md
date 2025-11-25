@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kunal! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl6b2p3dWk4YzNzM3Nkemg1NjgzeXB4eXRjM2JhMXVucTNyeWppcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDfqgm8huAHxpZtnYP/giphy.gif" width="30"></h2>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN6ejB4MDBsd29ia2Ntajk5YW1vcms4Zmw0ajlpcWliaWZ1eDA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GtxDVpBVTYpsxL0XXQ/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.srmist.edu.in/">SRM University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Student at <a href="https://www.srmist.edu.in/">SRM University</a>
 </em></p>
 
 [![Linkedin: kunalsrm](https://img.shields.io/badge/-Kunalsrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsrm/)](https://www.linkedin.com/in/kunalsrm/)
