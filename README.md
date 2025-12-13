@@ -40,14 +40,7 @@ Unlike standard software developers, I don't just write code that runs on a serv
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skunal3318&show_icons=true&theme=gotham&hide_border=true" alt="Kunal's Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skunal3318&theme=gotham&hide_border=true" alt="Streak" width="400" />
-</p>
-
----
 
 ### 📫 Let's Connect
 I am always open to discussing **Embedded AI**, **Robotics**, and **Open Source** collaborations.
