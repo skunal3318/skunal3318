@@ -1,27 +1,56 @@
-<h2> Hi, I'm Kunal! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl6b2p3dWk4YzNzM3Nkemg1NjgzeXB4eXRjM2JhMXVucTNyeWppcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDfqgm8huAHxpZtnYP/giphy.gif" width="30"></h2>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN6ejB4MDBsd29ia2Ntajk5YW1vcms4Zmw0ajlpcWliaWZ1eDA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GtxDVpBVTYpsxL0XXQ/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.srmist.edu.in/">SRM University</a>
-</em></p>
+# Hi, I'm Kunal. I build devices that think. 🛠️🧠
 
-[![Linkedin: kunalsrm](https://img.shields.io/badge/-Kunalsrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsrm/)](https://www.linkedin.com/in/kunalsrm/)
-[![GitHub Kunal](https://img.shields.io/github/followers/skunal3318?label=follow&style=social)](https://github.com/skunal3318)
+### Embedded Systems Engineer | IoT Developer | "Tech for Good" Advocate
 
+I am a B.Tech (CSE) scholar at **SRM University** with a passion for bridging the gap between physical hardware and intelligent software. My work focuses on **Assistive Technology**—creating smart, safe, and empathetic devices that solve real human problems.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```python
-kunal = {
-    "pronouns": ["he", "him"] ,
-    "code": ["Python", "C++", "IoT", "Robotics", "JavaScript"] ,
-    "tools": ["ROS", "Gazebo", "SolidWorks", "OpenCV", "Git", "TensorFlow", "YOLO", "Flask"],
-    "focusAreas": ["Robotics", "Autonomous Systems", "Embedded Programming", "Microservices"],
-    "communities": {
-        "president": "IEEE SRM"
-    },
-    "challenge": "Currently exploring and searching for the next challenge."
-}
-```
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMwODVoMm03aXFoYXg5anZld2tldzZ2Ymg1aWd1cHN4MzY0bHo4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0PCCgWph6W0pT5uBuf/giphy.gif" width="30"> <em><b> Always open to collaboration and meaningful conversations — let's connect!</b> :)</em>
+Unlike standard software developers, I don't just write code that runs on a server; I write code that interacts with the real world through sensors, signals, and robotics.
 
 ---
+
+### 🚀 What I'm Working On
+
+* **🧠 Assistive AI:** Building wearable devices that normalize mood and detect emotions using bio-signals (Project: *EmoCalm*).
+* **👁️ Computer Vision:** Developing defensive surveillance systems using anomaly detection and YOLO.
+* **🤖 Smart Robotics:** Prototyping autonomous systems using ROS, Gazebo, and ESP32 architectures.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **Domain** | **Tools & Technologies** |
+| :--- | :--- |
+| **Languages** | Python, C++, C, JavaScript |
+| **Embedded & IoT** | Arduino, ESP32/8266, Raspberry Pi, Sensors & Actuators |
+| **AI & Vision** | OpenCV, TensorFlow, YOLO, MediaPipe, Scikit-learn |
+| **Development** | Flask, React, Docker, Git/GitHub |
+| **Simulation** | SolidWorks, Blender, Gazebo |
+
+---
+
+### 🌟 Featured Projects
+
+**1. [EmoCalm: Mental Wellness Wearable](https://github.com/skunal3318/EmoCalm-A-Mental-Wellness-Solution)**
+> *An AI-powered IoT wearable designed to detect emotional states and provide haptic feedback for anxiety relief.*
+> * **Tech:** C++, Python, Galvanic Skin Response Sensors, ML Classification.
+
+**2. [Defensive Surveillance Anomaly Detection](https://github.com/skunal3318/Defensive-Surveillance-Anomaly)**
+> *A security system that utilizes computer vision to identify behavioral anomalies in real-time feeds.*
+> * **Tech:** Python, OpenCV, Deep Learning.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=skunal3318&show_icons=true&theme=gotham&hide_border=true" alt="Kunal's Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skunal3318&theme=gotham&hide_border=true" alt="Streak" width="400" />
+</p>
+
+---
+
+### 📫 Let's Connect
+I am always open to discussing **Embedded AI**, **Robotics**, and **Open Source** collaborations.
+
+* [LinkedIn](https://linkedin.com/in/kunalsrm)
+* [Email](mailto:kunal780954@gmail.com)
