@@ -1,49 +1,90 @@
-# Hi, I'm Kunal. I build devices that think. 🛠️🧠
+# Hi, I'm Kunal 👋  
+### Autonomy-Focused Robotics & Embedded Systems Engineer
 
-### Embedded Systems Engineer | IoT Developer | "Tech for Good" Advocate
+I am a **B.Tech (CSE) engineering student at SRM Institute of Science and Technology** with a strong interest in **robot autonomy, embedded systems, and intelligent robotics**. My work focuses on building systems that operate in the **real world**, integrating software, hardware, perception, and control.
 
-I am a B.Tech (CSE) scholar at **SRM University** with a passion for bridging the gap between physical hardware and intelligent software. My work focuses on **Assistive Technology**—creating smart, safe, and empathetic devices that solve real human problems.
-
-Unlike standard software developers, I don't just write code that runs on a server; I write code that interacts with the real world through sensors, signals, and robotics.
-
----
-
-### 🚀 What I'm Working On
-
-* **🧠 Assistive AI:** Building wearable devices that normalize mood and detect emotions using bio-signals (Project: *EmoCalm*).
-* **👁️ Computer Vision:** Developing defensive surveillance systems using anomaly detection and YOLO.
-* **🤖 Smart Robotics:** Prototyping autonomous systems using ROS, Gazebo, and ESP32 architectures.
+I enjoy working close to hardware — writing code that interacts with **sensors, actuators, and robots**, and building autonomy pipelines that scale from **simulation to real-world deployment**.
 
 ---
 
-### 🛠️ Technical Arsenal
-
-| **Domain** | **Tools & Technologies** |
-| :--- | :--- |
-| **Languages** | Python, C++, C, JavaScript |
-| **Embedded & IoT** | Arduino, ESP32/8266, Raspberry Pi, Sensors & Actuators |
-| **AI & Vision** | OpenCV, TensorFlow, YOLO, MediaPipe, Scikit-learn |
-| **Development** | Flask, React, Docker, Git/GitHub |
-| **Simulation** | SolidWorks, Blender, Gazebo |
+## 🔍 Areas of Interest
+- Robot Autonomy & Navigation
+- Embedded Systems & Hardware–Software Integration
+- ROS2-Based Robotics Development
+- Perception Pipelines (Vision & Sensor Data)
+- Autonomous UAVs & Mobile Robots
 
 ---
 
-### 🌟 Featured Projects
+## 🚀 What I’m Currently Working On
 
-**1. [EmoCalm: Mental Wellness Wearable](https://github.com/skunal3318/EmoCalm-A-Mental-Wellness-Solution)**
-> *An AI-powered IoT wearable designed to detect emotional states and provide haptic feedback for anxiety relief.*
-> * **Tech:** C++, Python, Galvanic Skin Response Sensors, ML Classification.
+- **🤖 ROS2 Autonomous Mobile Robots**  
+  Building differential-drive robots with **URDF, odometry, TF trees, and autonomy-ready architectures** using ROS2, Gazebo, and RViz.
 
-**2. [Defensive Surveillance Anomaly Detection](https://github.com/skunal3318/Defensive-Surveillance-Anomaly)**
-> *A security system that utilizes computer vision to identify behavioral anomalies in real-time feeds.*
-> * **Tech:** Python, OpenCV, Deep Learning.
+- **🛰️ Autonomous UAV Systems**  
+  Working on **semi-swarm UAV systems**, focusing on multi-robot coordination and perception-assisted autonomy.
+
+- **👁️ Perception & Vision Pipelines**  
+  Developing camera-based visualization and perception pipelines using **OpenCV and YOLO**, designed to integrate with autonomy stacks.
 
 ---
 
+## 🛠️ Technical Skills
 
+| **Domain** | **Technologies** |
+|-----------|------------------|
+| **Programming** | C, C++, Python |
+| **Robotics & Middleware** | ROS2, URDF, TF2, ros2_control, Nav2 (working knowledge) |
+| **Embedded Systems** | Arduino, ESP32, Raspberry Pi, Jetson Nano, GPIO, UART, I2C, SPI, PWM |
+| **Sensors & Actuators** | IMU, Ultrasonic Sensors, Encoders, DC Motors, Motor Drivers |
+| **Perception & ML** | OpenCV, YOLO, NumPy, Pandas, Scikit-learn |
+| **Simulation & Tools** | Gazebo, RViz, Git, CMake, Docker |
+| **Operating Systems** | Linux, Embedded Linux (basics) |
 
-### 📫 Let's Connect
-I am always open to discussing **Embedded AI**, **Robotics**, and **Open Source** collaborations.
+---
 
-* [LinkedIn](https://linkedin.com/in/kunalsrm)
-* [Email](mailto:kunal780954@gmail.com)
+## 🌟 Featured Projects
+
+### 🔹 [ROS2 Differential Drive Autonomous Rover](https://github.com/skunal3318/ROS2-Autonomous-Rover)
+> A ROS2-based differential-drive mobile robot with autonomy-ready foundations.
+- Implemented **wheel odometry** and validated pose estimation
+- Designed and documented a **TF2 frame tree** (`map → odom → base_link → wheels`)
+- Integrated velocity control via `/cmd_vel` and differential-drive kinematics
+- Simulated and validated behavior using **Gazebo and RViz**
+- Includes detailed documentation with **node graphs and TF diagrams**
+
+**Tech:** ROS2, C++, Python, URDF, Gazebo, RViz, TF2, Odometry
+
+---
+
+### 🔹 [Camera-Based Visualization for Differential Drive Rover](https://github.com/skunal3318/ROS2-Camera-Visualization)
+> Camera-based perception and visualization pipeline integrated with a ROS2 mobile robot.
+- Implemented real-time image publishing and subscription in ROS2
+- Visualized camera feeds in **RViz**
+- Built perception-ready foundations for future autonomy extensions
+
+**Tech:** ROS2, Python/C++, OpenCV, RViz
+
+---
+
+### 🔹 Autonomous UAV & Defense Systems (Research / Internship Work)
+> Worked on **semi-swarm autonomous UAV systems** in a defense research environment.
+- Multi-robot coordination and synchronized control logic
+- Integration of **ML-based perception modules**
+- Exposure to **YOLO-based object detection and tracking** pipelines
+
+---
+
+## 📚 Research Experience
+**AstroSat (ISRO) – Astrophysics & Data Analysis**
+- Time-series and signal analysis on high-noise sensor data
+- ML-based classification pipelines
+- Research accepted at an international AstroSat conference
+
+---
+
+## 📫 Let’s Connect
+I’m always open to discussing **robot autonomy, embedded systems, ROS2, and research/internship opportunities**.
+
+- 🔗 [LinkedIn](https://linkedin.com/in/kunalsrm)
+- 📧 [Email](mailto:kunal780954@gmail.com)
